@@ -16,3 +16,27 @@ git log
 git show
 git rm
 git rm --cached
+
+
+---
+
+## Git Commands Practiced
+
+### Initialize repository
+```bash
+git init
+
+git status
+git ls-files
+
+git add <file>
+
+git commit -m "message"
+
+git log
+git log --oneline
+
+git show
+
+git rm --cached <file>
+git rm -f <file>
